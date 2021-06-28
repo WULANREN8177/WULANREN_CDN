@@ -1,2 +1,0 @@
-# WULANREN_CDN
-## Test
